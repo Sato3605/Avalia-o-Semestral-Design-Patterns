@@ -1,0 +1,3 @@
+[2025-11-18T20:45:25.493] [ERRO] Falha no módulo de pagamentos.
+[2025-11-18T20:45:25.494] [EVENTO] Usuário realizou login.
+[2025-11-18T20:45:25.494] [AUDITORIA] Acesso à área administrativa.
